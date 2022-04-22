@@ -7,7 +7,7 @@
 #ifndef LIBGEOTIFF_XTIFFIO_H_
 #define LIBGEOTIFF_XTIFFIO_H_
 
-#include "geotiff/tiffio.h"
+#include "tiffio.h"
 #include "geo_config.h"
 
 /**
